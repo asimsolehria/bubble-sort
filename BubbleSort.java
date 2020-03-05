@@ -15,6 +15,7 @@ public class BubbleSort {
         System.out.println("Sorted array elements!");
         printArray(array);
     }
+    //Method for sorting array elements//
     
     static void Sort(int[]array)
     {
