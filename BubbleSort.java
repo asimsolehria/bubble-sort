@@ -5,11 +5,9 @@
  */
 public class BubbleSort {
     
-    /**
-     * @param args the command line arguments
-     */
+   
     public static void main(String[] args) {
-        // TODO code application logic here
+
         int[]array={12,98,45,75,13,87,102,40,19,478};
         System.out.println("Unsorted array elements!");
         printArray(array);
