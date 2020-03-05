@@ -29,6 +29,7 @@ public class BubbleSort {
             }
         }
     }
+    //Method for printing an array elements//
     static void printArray(int[]array){
         for(int element:array)
         {
